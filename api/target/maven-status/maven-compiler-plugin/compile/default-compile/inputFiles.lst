@@ -1,0 +1,13 @@
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/composite/product/ProductAggregate.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/core/recommendation/RecommendationService.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/composite/product/ProductCompositeService.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/composite/product/ServiceAddresses.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/core/review/ReviewService.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/core/product/ProductService.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/core/product/Product.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/core/review/Review.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/composite/product/ReviewSummary.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/core/recommendation/Recommendation.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/composite/product/RecommendationSummary.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/exceptions/InvalidInputException.java
+/Users/hakankurt/Documents/microservices/parent-project/api/src/main/java/com/hakan/microservices/api/exceptions/NotFoundException.java

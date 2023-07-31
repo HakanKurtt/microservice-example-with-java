@@ -1,0 +1,13 @@
+com/hakan/microservices/api/core/recommendation/RecommendationService.class
+com/hakan/microservices/api/exceptions/NotFoundException.class
+com/hakan/microservices/api/exceptions/InvalidInputException.class
+com/hakan/microservices/api/core/product/Product.class
+com/hakan/microservices/api/composite/product/ReviewSummary.class
+com/hakan/microservices/api/core/product/ProductService.class
+com/hakan/microservices/api/core/review/ReviewService.class
+com/hakan/microservices/api/composite/product/ProductCompositeService.class
+com/hakan/microservices/api/core/recommendation/Recommendation.class
+com/hakan/microservices/api/composite/product/ServiceAddresses.class
+com/hakan/microservices/api/composite/product/ProductAggregate.class
+com/hakan/microservices/api/core/review/Review.class
+com/hakan/microservices/api/composite/product/RecommendationSummary.class
